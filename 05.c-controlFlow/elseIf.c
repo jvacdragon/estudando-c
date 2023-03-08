@@ -24,7 +24,6 @@ int main(){
         if(i==6) break;
     }
 
-    getchar();
 
     return 0;
 }
